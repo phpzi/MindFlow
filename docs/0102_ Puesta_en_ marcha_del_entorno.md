@@ -27,9 +27,7 @@ y probar la rotación de pantalla.
 | Densidad(dpi)  | 420                      |
 | Resolucion(px) | 1080 x 2424              |
 
-<img alt="Teléfono actual" src="res/Android_17_api_37.png" width="30%"/>
-
-<img alt="Teléfono actual girado.png" src="res/Android_17_api_37_girado.png" width="50"/>
+<img alt="Teléfono actual" src="res/Android_17_api_37.png" width="50%"/>  <img alt="Teléfono actual girado" src="res/Android_17_api_37_girado.png" width="30"/>
 
 **AVD 3: Tablet**
 

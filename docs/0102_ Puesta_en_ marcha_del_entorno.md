@@ -41,7 +41,7 @@ y probar la rotación de pantalla.
 | Densidad(dpi)  | 320                        |
 | Resolucion(px) | 2560 x 1600                |
 
-<img src="res/tablet_android_15_api_33.png" alt="Tablet" width="50%">  <img src="res/tablet_android_15_api_33_girado.png" alt=" Tablet girado.png" width="40%">
+<img src="res/tablet_android_15_api_33.png" alt="Tablet" width="50%">  <img src="res/tablet_android_15_api_33_girado.png" alt=" Tablet girado.png" width="50%">
 
 ### Comentario de diferencias 
 

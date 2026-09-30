@@ -16,7 +16,7 @@ y probar la rotación de pantalla.
 | Resolucion(px) | 720 x 1280                |
 
 
-
+![Android_7_api_24.png](res/Android_7_api_24.png)
 
 ![Android_7_api_24 _girado.png](res/Android_7_api_24%20_girado.png)
 

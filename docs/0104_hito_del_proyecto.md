@@ -77,7 +77,7 @@ para mejorar tu salud mental y el bienestar diario.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
 >
 ---
-![01_inicio.jpg](res/01_inicio.jpg)
+<img  src="res/01_inicio.jpg" alt="Pantalla Inicio">
 
 ## 7 · Qué datos guarda la app
 

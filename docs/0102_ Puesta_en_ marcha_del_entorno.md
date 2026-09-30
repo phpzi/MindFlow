@@ -17,7 +17,7 @@ y probar la rotación de pantalla.
 
 <img alt="Android_7_api_24.png" height="980" src="res/Android_7_api_24.png" width="420"/>
 
-<img alt="Android_7_api_24 _girado.png" height="120" src="res/Android_7_api_24%20_girado.png" width="680"/>
+<img alt="Android_7_api_24 _girado.png" height="420" src="res/Android_7_api_24%20_girado.png" width="980"/>
 
 
 **AVD 2: Teléfono actual**

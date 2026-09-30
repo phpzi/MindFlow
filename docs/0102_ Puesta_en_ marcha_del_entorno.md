@@ -16,7 +16,7 @@ y probar la rotación de pantalla.
 | Resolucion(px) | 720 x 1280                |
 
 
-<img src="res/Android_7_api_24.png" alt="Teléfono antiguo" width="420" height="980">
+
 
 ![Android_7_api_24 _girado.png](res/Android_7_api_24%20_girado.png)
 

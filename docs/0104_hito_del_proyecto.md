@@ -77,7 +77,7 @@ para mejorar tu salud mental y el bienestar diario.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
 >
 ---
-<img  src="res/01_inicio.jpg" alt="Pantalla Inicio">
+<img  src="res/01_inicio.jpg" alt="Pantalla Inicio"><img src="res/02_registro.jpg"alt="Pantalla Registro emocional"><img src="res/03_ejercicio.jpg" alt="Pantalla Ejercicios de relajacion"><img src="res/04_ayuda.jpg" alt="Pantalla Ayuda">
 
 ## 7 · Qué datos guarda la app
 

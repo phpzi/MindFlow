@@ -17,7 +17,7 @@ y probar la rotación de pantalla.
 
 <img src="res/Android_7_api_24.png" alt="Teléfono antiguo" width="30%">    <img src="res/Android_7_api_24 _girado.png" alt="Teléfono antiguo girado" width="50%">
 
-
+<br>
 
 **AVD 2: Teléfono actual**
 
@@ -30,7 +30,7 @@ y probar la rotación de pantalla.
 
 <img src="res/Android_17_api_37.png" alt="Teléfono actual" width="30%">   <img src="res/Android_17_api_37_girado.png" alt="Teléfono actual girado" width="50%"> 
 
-
+<br>
 
 **AVD 3: Tablet**
 
@@ -42,6 +42,7 @@ y probar la rotación de pantalla.
 | Resolucion(px) | 2560 x 1600                |
 
 <img src="res/tablet_android_15_api_33.png" alt="Tablet" width="55%">  <img src="res/tablet_android_15_api_33_girado.png" alt=" Tablet girado.png" width="40%">
+<br>
 
 ### Comentario de diferencias 
 

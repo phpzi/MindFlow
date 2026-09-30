@@ -15,7 +15,7 @@ y probar la rotación de pantalla.
 | Densidad(dpi)  | 320                       |
 | Resolucion(px) | 720 x 1280                |
 
-<img src="res/Android_7_api_24.png" alt="Teléfono antiguo" width="40%">
+<img src="res/Android_7_api_24.png" alt="Teléfono antiguo" width="60%">
 
 <img alt="Android_7_api_24 _girado.png" height="320" src="res/Android_7_api_24%20_girado.png" width="580"/>
 

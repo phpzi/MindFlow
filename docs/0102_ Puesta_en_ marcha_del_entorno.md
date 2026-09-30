@@ -15,9 +15,9 @@ y probar la rotación de pantalla.
 | Densidad(dpi)  | 320                       |
 | Resolucion(px) | 720 x 1280                |
 
-<img alt="Android_7_api_24.png" height="981" src="res/Android_7_api_24.png" width="420"/>
+<img alt="Android_7_api_24.png" height="980" src="res/Android_7_api_24.png" width="420"/>
 
-![Android_7_api_24 _girado.png](res/Android_7_api_24%20_girado.png)
+<img alt="Android_7_api_24 _girado.png" height="420" src="res/Android_7_api_24%20_girado.png" width="980"/>
 
 
 **AVD 2: Teléfono actual**

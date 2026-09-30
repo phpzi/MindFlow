@@ -30,6 +30,8 @@ y probar la rotación de pantalla.
 
 <img src="res/Android_17_api_37.png" alt="Teléfono actual" width="30%">   <img src="res/Android_17_api_37_girado.png" alt="Teléfono actual girado" width="50%"> 
 
+
+
 **AVD 3: Tablet**
 
 | Dato           | Valor                      |
@@ -39,9 +41,9 @@ y probar la rotación de pantalla.
 | Densidad(dpi)  | 320                        |
 | Resolucion(px) | 2560 x 1600                |
 
-![tablet_android_15_api_33.png](res/tablet_android_15_api_33.png)
+<img src="res/tablet_android_15_api_33.png" alt="Tablet" width="30%">
 
-![tablet_android_15_api_33_girado.png](res/tablet_android_15_api_33_girado.png)
+<img src="res/tablet_android_15_api_33_girado.png" alt=" Tablet girado.png" width="50%">
 
 ### Comentario de diferencias 
 

@@ -15,8 +15,7 @@ y probar la rotación de pantalla.
 | Densidad(dpi)  | 320                       |
 | Resolucion(px) | 720 x 1280                |
 
-
-![Android_7_api_24.png](res/Android_7_api_24.png)
+<img alt="Android_7_api_24.png" height="300" src="res/Android_7_api_24.png" width="830"/>
 
 ![Android_7_api_24 _girado.png](res/Android_7_api_24%20_girado.png)
 

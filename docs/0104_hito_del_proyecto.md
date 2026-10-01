@@ -77,17 +77,17 @@ para mejorar tu salud mental y el bienestar diario.
 > Dibuja las pantallas principales. A mano y fotografiado es válido.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
 >
----
+
 <img src="res/01_inicio.jpg" alt="Pantalla Inicio" width="10%">  <img src="res/02_registro.jpg" alt="Pantalla Registro emocional" width="10%"> 
 <img src="res/03_historial.jpg" alt="Historial de emociones" width="10%">
 <img src="res/04_ejercicio.jpg" alt="Pantalla Ejercicios de relajación" width="30%"> <img src="res/05_ayuda.jpg" alt="Pantalla Ayuda" width="10%">
+---
 
 ## 7 · Qué datos guarda la app
 
-| Tipo de dato      | Campos                                           | Ejemplo                                                       |
-|-------------------|--------------------------------------------------|---------------------------------------------------------------|
-| Registro de ánimo | id, fecha/hora, nivel (1-5), nota, temp y tiempo | 30/09/2026 12:10, nivel 2, "entrega practica", 20 °C, nublado |
-|                   |                                                  |                                                               |
+| Tipo de dato      | Campos                             | Ejemplo                                        |
+|-------------------|------------------------------------|------------------------------------------------|
+| Registro de ánimo | id, fecha/hora, nivel (1-5), nota  | 30/09/2026 12:10, nivel 2, "entrega practica"  |
 
 ---
 
@@ -95,12 +95,12 @@ para mejorar tu salud mental y el bienestar diario.
 
 > Apartado obligatorio: ninguna casilla puede quedar vacía.
 
-| Requisito                                                             | Dónde encaja en tu app | Tema |
-|-----------------------------------------------------------------------|------------------------|------|
-| **Persistencia de datos** — la información sobrevive al cerrar la app |                        | 4    |
-| **Servicio web** — la app consulta datos por internet                 |                        | 5    |
-| **Sensor o localización**                                             |                        | 6    |
-| **Contenido multimedia** — foto, audio, vídeo o animación             |                        | 7    |
+| Requisito                                                             | Dónde encaja en tu app                                                                                                                           | Tema |
+|-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------|
+| **Persistencia de datos** — la información sobrevive al cerrar la app | Los registros de ánimo se guardan en una base de datos local (Room) y el historial (F2) los muestra aunque se cierre y se vuelva a abrir la app. | 4    |
+| **Servicio web** — la app consulta datos por internet                 | En la pantalla de Inicio, la app hace una petición a internet para descargar el consejo de bienestar del día (F4).                               | 5    |
+| **Sensor o localización**                                             | En la pantalla de Respiración se lee el sensor de luz del móvil: si hay poca luz, el fondo se pone oscuro para no molestar a la vista (F3).      | 6    |
+| **Contenido multimedia** — foto, audio, vídeo o animación             | El ejercicio de respiración reproduce un audio relajante (F3).                                                                                   | 7    |
 
 ---
 
@@ -109,7 +109,7 @@ para mejorar tu salud mental y el bienestar diario.
 | Lo que me preocupa                                                                          | Plan B                                                                                                                                                     |
 |---------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | Que alguien crea que la app sustituye a un profesional y la use en una situación de crisis  | Incluir un aviso claro y una pantalla de Ayuda con el 024 (línea de atención a la conducta suicida) y otros teléfonos de apoyo; la app no diagnostica nada |
-| La API del clima falla o el usuario no da permiso de ubicación                              | Guardar el registro sin clima, o dejar que elija su ciudad a mano                                                                                          |
+| El consejo del día no se descarga porque no hay internet o falla el servicio                | Mostrar un consejo por defecto guardado en la app                                                                                                          |
 
 ---
 

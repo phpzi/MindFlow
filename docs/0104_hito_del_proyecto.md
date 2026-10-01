@@ -34,8 +34,8 @@ para mejorar tu salud mental y el bienestar diario.
 
 > Lucas, 16 años, de habla hispana, que esté familiarizado con uso de la tecnología, que pueda 
 > usarlo en el momento que la necesite como antes de un examen, en casa, en la biblioteca, se dedica
-> 2-3 minutos de uso cada vez y si no tienen datos, wifi... siempre pueden llamar al equipo psicológico para
-> ser atendido.
+> 2-3 minutos de uso cada vez y si no tiene conexión, la app sigue funcionando porque guarda los 
+> datos en el móvil, y en la pantalla de Ayuda tiene teléfonos de apoyo como el 024.
 
 
 ---
@@ -44,30 +44,31 @@ para mejorar tu salud mental y el bienestar diario.
 
 ### Imprescindibles (sin esto la app no tiene sentido)
 
-| #   | Funcionalidad                                                                |
-|-----|------------------------------------------------------------------------------|
-| F1  | Registro diario del estado de ánimo (escala de 1 a 5 con emojis)             |
-| F2  | Historial con gráfico semanal para ver la evolución del ánimo                |
-| F3  | Ejercicio de respiración y meditacion guiado con animación y audio relajante |
-
+| #    | Funcionalidad                                                                             |
+|------|-------------------------------------------------------------------------------------------|
+| F1   | Registro diario del estado de ánimo (escala de 1 a 5 con emojis)                          |
+| F2   | Historial lista de los registros guardados.                                               |
+| F3   | Ejercicio de respiración con audio relajante y fondo que se oscurece solo si hay poca luz |
+| F4   | Consejo de bienestar del día, obtenido de internet                                        |
 
 ### Opcionales (si sobra tiempo)
 
-| #  | Funcionalidad                                                            |
-|----|--------------------------------------------------------------------------|
-| O1 | Recordatorio diario con una notificación a la hora que elija el usuario  |
-| O2 | Frase o consejo de bienestar del día                                     |
+| #  | Funcionalidad                                     |
+|----|---------------------------------------------------|
+| O1 | Gráfico semanal para ver la evolución del ánimo   |
+| O2 | Recordatorio diario con una notificación          |
 
 ---
 
 ## 5 · Pantallas
 
-| Pantalla         | Para qué sirve                                                                  | Se llega desde |
-|------------------|---------------------------------------------------------------------------------|----------------|
-| 01 Inicio        | Resumen de hoy (si ya registró su ánimo, clima) y accesos a las demás pantallas | (arranque)     |
-| 02 Reg. de ánimo | Elegir cómo me siento, escribir una nota y guardar                              | Inicio         |
-| 03 Respiración   | Ejercicio guiado con animación y audio                                          | Inicio         |
-| 04 Ayuda         | Aviso de que la app no sustituye a un profesional. Tfno de apoyo                | Inicio         |                
+| Pantalla         | Para qué sirve                                                   | Se llega desde |
+|------------------|------------------------------------------------------------------|----------------|
+| 01 Inicio        | Muestra el consejo del día y los accesos a las demás pantallas   | (arranque)     |
+| 02 Reg. de ánimo | Elegir cómo me siento, escribir una nota y guardar               | Inicio         |
+| 03 Historial     | Lista de los registros guardados                                 | Inicio         |
+| 04 Respiración   | Ejercicio guiado con animación y audio                           | Inicio         |
+| 05 Ayuda         | Aviso de que la app no sustituye a un profesional. Tfno de apoyo | Inicio         |                
 
 ---
 
@@ -77,8 +78,8 @@ para mejorar tu salud mental y el bienestar diario.
 > Pega aquí las imágenes o indica el nombre de los archivos adjuntos.
 >
 ---
-<img  src="res/01_inicio.jpg" alt="Pantalla Inicio" width="10%">  <img src="res/02_registro.jpg" alt="Pantalla Registro emocional" width="10%">
-<img src="res/03_ejercicio.jpg" alt="Pantalla Ejercicios de relajacion" width="30%"> <img src="res/04_ayuda.jpg" alt="Pantalla Ayuda" width="10%">
+<img  src="res/01_inicio.jpg" alt="Pantalla Inicio" width="10%">  <img src="res/02_registro.jpg" alt="Pantalla Registro emocional" width="10%"> <img src="res/03_historial.jpg" alt="Historial de emociones" width="10%">
+<img src="res/04_ejercicio.jpg" alt="Pantalla Ejercicios de relajacion" width="30%"> <img src="res/05_ayuda.jpg" alt="Pantalla Ayuda" width="10%">
 
 ## 7 · Qué datos guarda la app
 

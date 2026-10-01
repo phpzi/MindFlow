@@ -11,6 +11,7 @@
 | Sensores                             | magnetometro, acelerometro, giroscopio, proximidad, luz |
 | Bateria (estado, consumo aplicacion) | 6500mAh, estado optimo, 18%                             |
 
+
 ### Conclusiones.
 
  **Pantalla:** Mi móvil tiene una pantalla de 6,77" y 1080 × 2392 px, muy alta y estrecha.

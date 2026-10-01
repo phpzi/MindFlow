@@ -98,7 +98,7 @@ para mejorar tu salud mental y el bienestar diario.
 | Requisito                                                             | Dónde encaja en tu app                                                                                                                           | Tema |
 |-----------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------|------|
 | **Persistencia de datos** — la información sobrevive al cerrar la app | Los registros de ánimo se guardan en una base de datos local (Room) y el historial (F2) los muestra aunque se cierre y se vuelva a abrir la app. | 4    |
-| **Servicio web** — la app consulta datos por internet                 | En la pantalla de Inicio, la app hace una petición a internet para descargar el consejo de bienestar del día (F4).                               | 5    |
+| **Servicio web** — la app consulta datos por internet                 | En la pantalla de Inicio, la app hace una petición a internet para descargar frase positiva para mostrar al usuario (F4).                        | 5    |
 | **Sensor o localización**                                             | En la pantalla de Respiración se lee el sensor de luz del móvil: si hay poca luz, el fondo se pone oscuro para no molestar a la vista (F3).      | 6    |
 | **Contenido multimedia** — foto, audio, vídeo o animación             | El ejercicio de respiración reproduce un audio relajante (F3).                                                                                   | 7    |
 

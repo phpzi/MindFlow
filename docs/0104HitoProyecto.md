@@ -115,10 +115,10 @@ para mejorar tu salud mental y el bienestar diario.
 
 ## Antes de entregar
 
-- [ ] La idea cabe en una frase.
-- [ ] El publico es una persona concreta, no «todo el mundo».
-- [ ] Hay **3 o 4** funcionalidades imprescindibles, no diez.
-- [ ] Cada funcionalidad imprescindible tiene su pantalla.
-- [ ] Hay bocetos de las pantallas principales.
-- [ ] **Las cuatro casillas del apartado 8 estan rellenas.**
-- [ ] Esta identificado al menos un riesgo con su plan B.
+- [x] La idea cabe en una frase.
+- [x] El publico es una persona concreta, no «todo el mundo».
+- [x] Hay **3 o 4** funcionalidades imprescindibles, no diez.
+- [x] Cada funcionalidad imprescindible tiene su pantalla.
+- [x] Hay bocetos de las pantallas principales.
+- [x] **Las cuatro casillas del apartado 8 estan rellenas.**
+- [x] Esta identificado al menos un riesgo con su plan B.

@@ -78,7 +78,7 @@ para mejorar tu salud mental y el bienestar diario.
 > Pega aqui las imagenes o indica el nombre de los archivos adjuntos.
 >
 
-<img src="res/01_inicio.jpg" alt="Pantalla Inicio" width="10%">  <img src="res/02_registro.jpg" alt="Pantalla Registro emocional" width="30%"> 
+<img src="res/01_inicio.jpg" alt="Pantalla Inicio" width="30%">  <img src="res/02_registro.jpg" alt="Pantalla Registro emocional" width="30%"> 
 <img src="res/03_historial.jpg" alt="Historial de emociones" width="30%">
 <img src="res/04_ejercicio.jpg" alt="Pantalla Ejercicios de relajacion" width="30%"> <img src="res/05_ayuda.jpg" alt="Pantalla Ayuda" width="30%">
 ---

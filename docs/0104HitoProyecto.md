@@ -72,7 +72,7 @@ para mejorar tu salud mental y el bienestar diario.
 
 ---
 
-## 6 · Bocetos 
+## 6 · Bocetos
 
 > Dibuja las pantallas principales. A mano y fotografiado es valido.
 > Pega aqui las imagenes o indica el nombre de los archivos adjuntos.

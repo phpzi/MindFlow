@@ -1,8 +1,8 @@
 # 03. Estudio de los componentes 
 Varias zonas de los mockups corresponden a datos dinámicos que provienen de una lista o colección. En Compose, estos elementos se definen una sola vez dentro de un ítem y se repiten automáticamente
 
- <img src="res/Registro.png" alt="Pantalla Registro emocional" width="40%">
- <img src="res/Historial.png" alt="Historial Registro emocional" width="40%">
+ <img src="res/Registro.png" alt="Pantalla Registro emocional" width="30%">
+ <img src="res/Historial.png" alt="Historial Registro emocional" width="30%">
  
  ## Componentes que se repiten
  ### Tarjeta de emociones 

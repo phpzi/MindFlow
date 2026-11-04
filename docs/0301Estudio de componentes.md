@@ -46,7 +46,7 @@ Un control horizontal superior con tres opciones fijas para filtrar el históric
 Ocupa el hueco bottomBar del Scaffold. Muestra los cuatro accesos fijos de la app y un botón de acción flotante central (FloatingActionButton) con un icono de más (+) sobre un fondo degradado morado para registrar una nueva emoción.
 
 # Estructura en layot
-<img src="res/leyenda.png">
+<img src="res/leyenda.PNG">
 <img src="res/registrodivision.png" alt="Pantalla Registro emocional">
 
  <img src="res/historialdivision.png" alt="Historial Registro emocional">

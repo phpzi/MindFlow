@@ -8,7 +8,7 @@ Varias zonas de los mockups corresponden a datos dinámicos que provienen de una
  ### Tarjeta de emociones 
  <img src="res/image.png">
 
-Cinco estados de ánimo representados por un emoji sobre un fondo de color suave con su respectivo texto debajo, teniendo uno de ellos un borde resaltado como activo. Es un mismo patrón visual repetido en horizontal que se resuelve iterando una colección de datos sobre una Row.
+Cinco estados de ánimo representados por un emoji sobre un fondo de color suave con su respectivo texto debajo, teniendo uno de ellos un borde resaltado como activo. Es un mismo patrón visual repetido en horizontal que se resuelve iterando una colección de datos sobre una *Row*.
 
 ### Etiquetas de selección
 <img src="res/image1.png">
@@ -19,7 +19,7 @@ Cinco botones interactivos con esquinas redondeadas donde el usuario selecciona 
 <img src="res/image2.png">
 
 Tarjeta de registro diario con fecha, hora, nota de texto y emoji de estado.
-Se repite siete veces en la pantalla de "Historial de Emociones" (Hoy, Ayer, Viernes...). Muestra la fecha y hora arriba a la izquierda, una vista previa de la nota reflexiva debajo, y el emoji correspondiente al estado de ánimo en un recuadro redondeado a la derecha. Es el elemento típico que se renderiza dentro de una LazyColumn.
+Se repite siete veces en la pantalla de "Historial de Emociones" (Hoy, Ayer, Viernes...). Muestra la fecha y hora arriba a la izquierda, una vista previa de la nota reflexiva debajo, y el emoji correspondiente al estado de ánimo en un recuadro redondeado a la derecha. Es el elemento típico que se renderiza dentro de una *LazyColumn*.
 
 
 ## Componentes que aparecen una sola vez
@@ -28,17 +28,17 @@ Estas piezas son fijas, actúan como contenedores únicos o controles globales y
 ### Tarjeta Horizontal. App Bar
 <img src="res/image4.png">
 
-Barra con un boton de retroceso, fecha con estilo de capsula y un icono de informacion. Ocupa el espacio topBar / Row de esta pantalla.
+Barra con un boton de retroceso, fecha con estilo de capsula y un icono de informacion. Ocupa el espacio *topBar / Row* de esta pantalla.
 
 ### Historial de Emociones
 <img src="res/image5.png">
 
-Incluye la navegación hacia atrás, el título central estático y un icono de agenda/calendario a la derecha. Se resuelve con el hueco topBar de un Scaffold mediante un TopAppBar.
+Incluye la navegación hacia atrás, el título central estático y un icono de agenda/calendario a la derecha. Se resuelve con el hueco *topBar* de un *Scaffold*.
 
 ### Fila de pestañas fijas: Esta semana, Mes, Año
 <img src="res/image6.png">
 
-Un control horizontal superior con tres opciones fijas para filtrar el histórico, donde la opción activa ("Esta semana") queda resaltada con un fondo blanco. Se maqueta de forma estática usando una TabRow o una Row con botones de opción.
+Un control horizontal superior con tres opciones fijas para filtrar el histórico, donde la opción activa ("Esta semana") queda resaltada con un fondo blanco. Se maqueta de forma estática usando una *TabRow* o una *Row* con botones de opción.
 
 ### Barra de navegación inferior
 <img src="res/image7.png">
@@ -47,6 +47,6 @@ Ocupa el hueco bottomBar del Scaffold. Muestra los cuatro accesos fijos de la ap
 
 # Estructura en layot
 <img src="res/leyenda.png">
-<img src="res/registrodivision.png" alt="Pantalla Registro emocional" width="50%">
+<img src="res/registrodivision.png" alt="Pantalla Registro emocional">
 
- <img src="res/historialdivision.png" alt="Historial Registro emocional" width="50%">
+ <img src="res/historialdivision.png" alt="Historial Registro emocional">
